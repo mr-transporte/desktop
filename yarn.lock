@@ -195,9 +195,9 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-virtualized@^9.7.12":
-  version "9.7.14"
-  resolved "https://registry.yarnpkg.com/@types/react-virtualized/-/react-virtualized-9.7.14.tgz#4ce4b1f4a8d242edf317c7f798852788150a0040"
+"@types/react-virtualized@^9.21.4":
+  version "9.21.4"
+  resolved "https://registry.yarnpkg.com/@types/react-virtualized/-/react-virtualized-9.21.4.tgz#8f76a8a3e6d868cd6553e1671e047ec9a919788d"
   dependencies:
     "@types/prop-types" "*"
     "@types/react" "*"
