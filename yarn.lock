@@ -276,9 +276,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/webpack-bundle-analyzer@^2.9.2":
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/@types/webpack-bundle-analyzer/-/webpack-bundle-analyzer-2.9.2.tgz#a3f9f4dd8bc3025550001a1704cfd31125773f40"
+"@types/webpack-bundle-analyzer@^2.13.2":
+  version "2.13.2"
+  resolved "https://registry.yarnpkg.com/@types/webpack-bundle-analyzer/-/webpack-bundle-analyzer-2.13.2.tgz#d5183ae083b29b8cd0dc7352eaf008ed220c13d9"
   dependencies:
     "@types/webpack" "*"
 
