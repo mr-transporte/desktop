@@ -19,17 +19,13 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chai-datetime@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@types/chai-datetime/-/chai-datetime-0.0.31.tgz#15e183b661e647793631aecc60c203a6bafa0a79"
+"@types/chai-datetime@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@types/chai-datetime/-/chai-datetime-0.0.33.tgz#26205ded289944aa2e44f5ad3e14d3d93446233c"
   dependencies:
     "@types/chai" "*"
 
-"@types/chai@*":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.0.4.tgz#fe86315d9a66827feeb16f73bc954688ec950e18"
-
-"@types/chai@^4.1.2":
+"@types/chai@*", "@types/chai@^4.1.2":
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.1.2.tgz#f1af664769cfb50af805431c407425ed619daa21"
 
