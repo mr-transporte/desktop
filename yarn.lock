@@ -67,9 +67,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/electron-winstaller@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@types/electron-winstaller/-/electron-winstaller-2.6.0.tgz#703073ee2109fefe8a958fdadb746dfc0a827918"
+"@types/electron-winstaller@^2.6.2":
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/@types/electron-winstaller/-/electron-winstaller-2.6.2.tgz#bdfe0f56f954036015ec77331a657762e06d97f2"
 
 "@types/event-kit@^1.2.28":
   version "1.2.32"
