@@ -189,9 +189,9 @@
     "@types/node" "*"
     "@types/react" "*"
 
-"@types/react-transition-group@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-1.1.1.tgz#372fd2b4777b96aa983ac15fb5cc0ce150550aeb"
+"@types/react-transition-group@4.2.2":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.2.2.tgz#8c851c4598a23a3a34173069fb4c5c9e41c02e3f"
   dependencies:
     "@types/react" "*"
 
