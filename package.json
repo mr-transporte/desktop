@@ -129,7 +129,7 @@
     "@types/mini-css-extract-plugin": "^0.2.0",
     "@types/mocha": "^2.2.48",
     "@types/mri": "^1.1.0",
-    "@types/node": "^8.10.4",
+    "@types/node": "^12.7.4",
     "@types/react": "^16.3.16",
     "@types/react-dom": "^16.0.5",
     "@types/react-transition-group": "1.1.1",
