@@ -93,7 +93,7 @@
     "style-loader": "^0.21.0",
     "to-camel-case": "^1.0.0",
     "ts-node": "^5.0.1",
-    "tslint": "^5.11.0",
+    "tslint": "^5.20.0",
     "tslint-config-prettier": "^1.14.0",
     "tslint-microsoft-contrib": "^5.1.0",
     "tslint-react": "^3.6.0",
