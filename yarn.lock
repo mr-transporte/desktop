@@ -222,10 +222,10 @@
   resolved "https://registry.yarnpkg.com/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"
   integrity sha512-OCutwjDZ4aFS6PB1UZ988C4YgwlBHJd6wCeQqaLdmadZ/7e+w79+hbMUFC1QXDNCmdyoRfAFdm0RypzwR+Qpag==
 
-"@types/event-kit@^1.2.28":
-  version "1.2.32"
-  resolved "https://registry.yarnpkg.com/@types/event-kit/-/event-kit-1.2.32.tgz#068cbdc69e8c969afae8c9f6e3a51ea4b1b5522e"
-  integrity sha512-v+dvA/8Uqp5OfLkd8PRPCZgIWyfz2n14yZdyHvMkZG3Kl4d5K/7son3w18p9bh8zXx3FeT5/DZnu3cM8dWh3sg==
+"@types/event-kit@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@types/event-kit/-/event-kit-2.4.0.tgz#d470e1e9b5ee1ad574ca4efc65093aa116277ff4"
+  integrity sha512-z8rC3bYgdkV+OEKr2aMcooY91e1uIwiWrjee05NR4tqG+jgPL/p8ZYkrtf+U91sTq2Z6pp2Ul9vGY3wYI1Lmuw==
 
 "@types/events@*":
   version "1.2.0"
