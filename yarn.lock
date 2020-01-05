@@ -200,10 +200,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/double-ended-queue@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@types/double-ended-queue/-/double-ended-queue-2.1.0.tgz#adc862d8d53bdf7d1b23a7d85559815ec1fbb92c"
-  integrity sha512-pCS41/Odn6GMQyqnt8aPTSTQFGriAryYQwVONKk1QhUEhulxueLPE1kDNqDOuJqiv34VLVWXxF4I1EKz3+ftzQ==
+"@types/double-ended-queue@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@types/double-ended-queue/-/double-ended-queue-2.1.1.tgz#f077386134f0f736d927812c85c43a04f21ddc27"
+  integrity sha512-O2+umEIlHBVyi+ePmucPjpINqTvSnsz+hAok0D4IpvrOsIsDr6c34B0AbNXW2UDVYuxbv51z5dxnrRt23ohgWg==
 
 "@types/electron-packager@^13.0.0":
   version "13.0.1"
