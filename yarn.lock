@@ -149,10 +149,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@primer/octicons@^9.1.0":
-  version "9.1.1"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-9.1.1.tgz#a72a59e8ec77521cc2eefb36c345f780a61c79fb"
-  integrity sha512-7EGM0+Kx39bIgaYr9bTCzFvBCxm+fqh/YJIoSns8zfCwss32ZJ2GDP3024UH709VQtM5cKFU4JcIYPHyGdSfIg==
+"@primer/octicons@^9.4.0":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-9.4.0.tgz#eea0d26844cef16d9fde5e764b6c5dba8c9619fa"
+  integrity sha512-7tAWOTt3Ay3Vkf9XwietC40TV1pxk5PS2DAODsOPnMfMd9Yzm2tfvHu0Q3dcffxGZxu7n5ZM6MFWbr/+4dqSdA==
   dependencies:
     object-assign "^4.1.1"
 
