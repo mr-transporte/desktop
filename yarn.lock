@@ -430,10 +430,10 @@
     "@types/node" "*"
     "@types/react" "*"
 
-"@types/react-transition-group@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-1.1.1.tgz#372fd2b4777b96aa983ac15fb5cc0ce150550aeb"
-  integrity sha512-LOXbB5NTmyaZeiysrSRhgQDGFic7gyavZ6HcBkWwSL7PW+aYRh/cOPO+wLp2YnHJLWTQz9Avr3qOXWCrWhGOfA==
+"@types/react-transition-group@4.2.4":
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.2.4.tgz#c7416225987ccdb719262766c1483da8f826838d"
+  integrity sha512-8DMUaDqh0S70TjkqU0DxOu80tFUiiaS9rxkWip/nb7gtvAsbqOXm02UCmR8zdcjWujgeYPiPNTVpVpKzUDotwA==
   dependencies:
     "@types/react" "*"
 
