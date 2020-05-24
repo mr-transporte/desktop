@@ -546,10 +546,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/webpack-bundle-analyzer@^2.9.2":
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/@types/webpack-bundle-analyzer/-/webpack-bundle-analyzer-2.9.2.tgz#a3f9f4dd8bc3025550001a1704cfd31125773f40"
-  integrity sha512-RQub8vZH3P8Afwx+JezWZ2aF0Acy+q1bGctLTAaYVwPecu8XEUsO4Lc0LHHHjWnxF57XcoVxBUM7Sbcvh6B/eQ==
+"@types/webpack-bundle-analyzer@^3.8.0":
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/@types/webpack-bundle-analyzer/-/webpack-bundle-analyzer-3.8.0.tgz#d1f196f95159254f76a3c2283c4677585bdf354d"
+  integrity sha512-Ah6FbkXLAVUNI/ExXHsTS90iRS/Efplh333NySjhGx09oeH9qXf57NMUfl4RADTL5a89hQaq/nbT4eb0LwsQJw==
   dependencies:
     "@types/webpack" "*"
 
