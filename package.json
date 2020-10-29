@@ -123,7 +123,7 @@
   },
   "devDependencies": {
     "@types/byline": "^4.2.31",
-    "@types/classnames": "^2.2.2",
+    "@types/classnames": "^2.2.11",
     "@types/clean-webpack-plugin": "^0.1.2",
     "@types/codemirror": "0.0.55",
     "@types/double-ended-queue": "^2.1.0",
