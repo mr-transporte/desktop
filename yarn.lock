@@ -515,10 +515,10 @@
   resolved "https://registry.yarnpkg.com/@types/to-camel-case/-/to-camel-case-1.0.0.tgz#927ef0a7294d90b1835466c29b64b8ad2a32d8b5"
   integrity sha512-LXJOP0xvOUB4dKu+t7EVhSsM2NauLSZSOGkBS7Wqz3lWHIseCJnMDG+HrZHLFZQ39Fq3jr4RErJyQzfsoOlXSA==
 
-"@types/ua-parser-js@^0.7.30":
-  version "0.7.32"
-  resolved "https://registry.yarnpkg.com/@types/ua-parser-js/-/ua-parser-js-0.7.32.tgz#8827d451d6702307248073b5d98aa9293d02b5e5"
-  integrity sha512-+z7Q72Mlnq6SFkQYHzLg2Z70pIsgRVzgx1b5PV8eUv5uaZ/zoqIs45XnhtToW4gTeX4FbjIP49nhIjyvPF4rPg==
+"@types/ua-parser-js@^0.7.34":
+  version "0.7.34"
+  resolved "https://registry.yarnpkg.com/@types/ua-parser-js/-/ua-parser-js-0.7.34.tgz#deb8db5c45e3dfaa8d83f20b1235a5f11cd4ce40"
+  integrity sha512-ir0221I3HaIZLcegiK8BMAWZ0MzW9bS1iNghFAzXCIvE8ilSzELWhMFbX4Va00dAcE1ecHLzvNWDFWikZNsmCw==
 
 "@types/uglify-js@*":
   version "2.6.29"
