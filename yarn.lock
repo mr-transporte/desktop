@@ -595,10 +595,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/xml2js@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@types/xml2js/-/xml2js-0.4.0.tgz#e54a89a0055d5ed69305b2610f970909bf363e45"
-  integrity sha512-3gw0UqFMq7PsfMDwsawD0/L48soXfzOEh0NSAWVO99IZXnhx9LD3nOldHIpGYzZBsrS9NV2vaRFvEdWe+UweXQ==
+"@types/xml2js@^0.4.8":
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/@types/xml2js/-/xml2js-0.4.8.tgz#84c120c864a5976d0b5cf2f930a75d850fc2b03a"
+  integrity sha512-EyvT83ezOdec7BhDaEcsklWy7RSIdi6CNe95tmOAK0yx/Lm30C9K75snT3fYayK59ApC2oyW+rcHErdG05FHJA==
   dependencies:
     "@types/node" "*"
 
