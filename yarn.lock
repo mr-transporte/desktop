@@ -498,10 +498,10 @@
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.2.tgz#e13182e1b69871a422d7863e11a4a6f5b814a4bd"
   integrity sha512-42zEJkBpNfMEAvWR5WlwtTH22oDzcMjFsL9gDGExwF8X8WvAiw7Vwop7hPw03QT8TKfec83LwbHj6SvpqM4ELQ==
 
-"@types/temp@^0.8.29":
-  version "0.8.31"
-  resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.8.31.tgz#8518b6fb4c7d7cf106c78e5d88d3cff88d508f97"
-  integrity sha512-zlQRhRYRTuO1lNF0WIYshou/BaVPslf6Rg6jm6sykKn9G/8gOKtlAXtWAZzyQl762XBtpdhsoP5WuN902OQ6RQ==
+"@types/temp@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.9.1.tgz#448560fbe6235b521778367c26208e784f15adb1"
+  integrity sha512-yDQ8Y+oQi9V7VkexwE6NBSVyNuyNFeGI275yWXASc2DjmxNicMi9O50KxDpNlST1kBbV9jKYBHGXhgNYFMPqtA==
   dependencies:
     "@types/node" "*"
 
