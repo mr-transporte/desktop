@@ -274,10 +274,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/fuzzaldrin-plus@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.0.1.tgz#bfe5e25bc5b4066848171baf7a8aaf30e267d30a"
-  integrity sha1-v+XiW8W0BmhIFxuveoqvMOJn0wo=
+"@types/fuzzaldrin-plus@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.2.tgz#cce60068fc9390e2248b75afcce717a8ca6da502"
+  integrity sha512-f9QkOre3T9YI1+Pd6CVgt0rY/KiPFlYHhbKXmjDYZVbIgOLDls1k22nuIq7skIGz/tS4f5gRRWW6wR2B2dWEqQ==
 
 "@types/glob@^5.0.35":
   version "5.0.35"
